@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div style="display:flex; align-items:center; justify-content:center; flex-direction:column; gap:10px">
+    <img style="width:100px; height:100px; object-fit:cover;" src="./images/logo.png"/>
+    <h2>
+        NextJs v13 E-commerce
+    </h2>
+</div>
 
-## Getting Started
 
-First, run the development server:
 
-```bash
+> **Live Link:**  [https://google.com](https://google.com)
+
+
+
+![][gif]
+
+
+
+![][img1]
+
+![][img2]
+
+![][img3]
+
+![][img4]
+
+
+
+## Build
+
+- [ ] Nextjs v13
+- [ ] Redux-Toolkit
+- [ ] React-icons
+- [ ] React-Slick
+- [ ] Tailwindcss
+
+```react
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
+npm run build && npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+> ### Project Link
+>
+> [**https://github.com/enesdmc0/Next.js-v13-Ecommerce-**][projectLink]
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contact
 
-## Learn More
+[**Twitter - enesdmc00**][twitter]
 
-To learn more about Next.js, take a look at the following resources:
+[**Email - enesdmcc@gmail.com**][mail]
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[**Linkedin - enesdemirci1**][linkedin]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+[gif]: ./images/gif.gif
+[img1]: ./images/img1.png
+[img2]: ./images/img2.png
+[img3]:./images/img3.png
+[img4]: ./images/img4.png
+[mail]: enesdmcc@gmail.com
+[twitter]: https://twitter.com/enesdmc00
+[linkedin]: inkedin.com/in/enesdemirci1
+[projectLink]: https://github.com/enesdmc0/Next.js-v13-Ecommerce-
+
+
+
