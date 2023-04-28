@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:center; flex-direction:column; gap:10px">
+<div style="width:100%; display:flex; align-items:center; justify-content:center; flex-direction:column; gap:10px">
     <img style="width:100px; height:100px; object-fit:cover;" src="./images/logo.png"/>
     <h2>
         NextJs v13 E-commerce
