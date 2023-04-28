@@ -31,7 +31,9 @@ const ProductDetail = ({productDetail}) => {
             price:productDetail.price,
             totalPrice: quantity * productDetail.price
         }))
+
         router.back("/")
+
     }
     return (
         <div className="flex gap-10">

@@ -12,15 +12,12 @@ const cabin = Cabin({
 export default function RootLayout({children}) {
     const {products, productDetail} = store.getState().products
     const {categories} = store.getState().categories
-    const {cards} = store.getState().cards
-
     return (
         <html lang="en" className={cabin.className}>
         <body>
        <StoreProvider preloadedState={{
            products: {products, productDetail},
            categories: {categories},
-           cards: {cards}
        }}>
            <div className="w-10/12 m-auto">
                <Navbar/>
