@@ -7,7 +7,7 @@
 
 
 
-> **Live Link:**  [https://google.com](https://google.com)
+> **Live Link:**  [https://next-js-v13-ecommerce.vercel.app/](https://next-js-v13-ecommerce.vercel.app/)
 
 
 
